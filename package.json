@@ -1,0 +1,21 @@
+{
+  "name": "github-email",
+  "version": "1.1.1",
+  "description": "Magically retrieves a GitHub users email even though it's not publicly shown",
+  "bin": {
+    "github-email": "github-email.sh"
+  },
+  "preferGlobal": true,
+  "repository": "paulirish/github-email",
+  "keywords": [
+    "github",
+    "cli"
+  ],
+  "author": "Paul Irish",
+  "contributors": [
+    {
+      "name": "Zoro Z."
+    }
+  ],
+  "license": "MIT"
+}
